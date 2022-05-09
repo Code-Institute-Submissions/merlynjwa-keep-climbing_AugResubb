@@ -21,7 +21,7 @@ Design a website for people looking to start wall climbing
   * Why you should climb
   * Climbing equipment available
   * Weekly events
-* Location on map, social media
+* Location on map, social media, opening times & contact
 
 ## Sign up page
 
