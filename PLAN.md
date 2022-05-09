@@ -19,6 +19,7 @@ Design a website for people looking to start wall climbing
 * Title, navigation
 * Desciption of the centre
   * Why you should climb
+  * Climbing equipment available
 * Location on map, social media
 
 ## Sign up page
