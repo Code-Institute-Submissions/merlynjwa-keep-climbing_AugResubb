@@ -2,6 +2,12 @@
 
 ## Strategy
 
+### Target Audience
+
+* People who are interested in personal fitness
+* Experienced wall and rock climbers
+* Parents and children looking for an activity or planning an event
+
 ## Scope
 
 * A description of the centre
