@@ -2,8 +2,6 @@
 
 ## Strategy
 
-Design a website for people looking to start wall climbing
-
 ## Scope
 
 * A description of the centre
