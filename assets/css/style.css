@@ -21,4 +21,6 @@ body {
     background-size: cover;
     background-position: center bottom;
     background-attachment: fixed;
+
+    font-family: 'Ubuntu', sans-serif;
 }
