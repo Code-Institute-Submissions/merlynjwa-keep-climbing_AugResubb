@@ -67,3 +67,12 @@ The site makes use of free icons from Font Awesome.
 The icons are available under an
 [open licence](https://fontawesome.com/license/free),
 and all copyright is attributable to Fonticons, Inc.
+
+- __Unsplash__
+
+  I have used Unsplash as a source of free stock images.
+  Their license can be found [here](https://unsplash.com/license).
+
+  _Photos used:_
+  - [Background image](https://unsplash.com/photos/pfyEi5Iko58)
+    by [Malachi Brooks](https://unsplash.com/@mebrooks01)
