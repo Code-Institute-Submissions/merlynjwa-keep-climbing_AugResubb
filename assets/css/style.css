@@ -1,3 +1,11 @@
+/* I am using Koulen and Ubuntu as the fonts for my website
+ * They are provided by Google Fonts
+ * Koulen's license: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+ * Ubuntu's font license: https://font.ubuntu.com/ufl/
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Ubuntu:wght@300&display=swap');
+
 #centre-location iframe {
     border: 0;
     margin: 0;

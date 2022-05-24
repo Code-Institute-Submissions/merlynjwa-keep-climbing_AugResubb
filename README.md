@@ -74,3 +74,11 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
   _Photos used:_
   - [Background image](https://unsplash.com/photos/pfyEi5Iko58)
     by [Malachi Brooks](https://unsplash.com/@mebrooks01)
+
+- __Google Fonts__
+
+  I am using fonts provided by Google Fonts.
+
+  _Fonts used:_
+  - Koulen, [license](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+  - Ubuntu, [license](https://ubuntu.com/legal/font-licence)
