@@ -6,4 +6,5 @@
 body {
     background-image: url(../images/people-getting-ready-to-climb.jpg);
     background-size: cover;
+    background-position: center;
 }
