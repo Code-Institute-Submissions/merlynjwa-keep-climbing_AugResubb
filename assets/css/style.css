@@ -2,3 +2,7 @@
     border: 0;
     margin: 0;
 }
+
+body {
+    background-image: url(../images/people-getting-ready-to-climb.jpg);
+}
