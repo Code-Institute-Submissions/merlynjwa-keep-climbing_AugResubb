@@ -12,16 +12,6 @@
 }
 
 body {
-    /*
-     * Photo by Malachi Brooks on Unsplash
-     * provided under the Unsplash license
-     * https://unsplash.com/license
-     */
-    background-image: url(../images/people-getting-ready-to-climb.jpg);
-    background-size: cover;
-    background-position: center bottom;
-    background-attachment: fixed;
-
     font-family: 'Ubuntu', sans-serif;
 }
 
