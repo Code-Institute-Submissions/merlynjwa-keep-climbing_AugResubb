@@ -6,11 +6,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Koulen&family=Ubuntu:wght@300&display=swap');
 
-#centre-location iframe {
-    border: 0;
-    margin: 0;
-}
-
 body {
     margin: 0;
 
@@ -42,6 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #centre-location iframe {
+    border: 0;
+    margin: 0;
     width: 100%;
     height: 100%;
 }
