@@ -24,3 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 #top-bar {
     background-color: #83291F;
 }
+
+#top-bar > h1 {
+    margin: auto;
+}
