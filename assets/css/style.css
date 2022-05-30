@@ -67,6 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 
 footer {
     background-color: hsl(35, 38%, 52%);
+    color: #000;
 }
 
 @media screen and (min-width: 768px) {
