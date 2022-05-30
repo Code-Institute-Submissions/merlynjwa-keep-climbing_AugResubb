@@ -31,12 +31,12 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
 }
 
-#centre-location {
+#centre-contact-details {
     display: flex;
     flex-direction: column;
 }
 
-#centre-location iframe {
+#centre-contact-details iframe {
     border: 0;
     margin: 0;
     width: 100%;
