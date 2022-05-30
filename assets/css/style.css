@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #top-bar {
-    background-color: #83291F;
+    background-color: hsl(212, 43%, 37%);
 }
 
 #top-bar > h1 {
@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about-us {
+    background-color: hsl(330, 32%, 41%);
     display: flex;
     flex-direction: column;
 }
@@ -48,6 +49,22 @@ h1, h2, h3, h4, h5, h6 {
     height: 33vw;
     background-position: center 25%;
     background-size: cover;
+}
+
+#why-you-should-climb {
+    background-color: hsl(10, 66%, 45%);
+}
+
+#weekly-events {
+    background-color: hsl(31, 82%, 47%);
+}
+
+#sign-up {
+    background-color: hsl(33, 57%, 49%);
+}
+
+footer {
+    background-color: hsl(35, 38%, 52%);
 }
 
 @media screen and (min-width: 768px) {
