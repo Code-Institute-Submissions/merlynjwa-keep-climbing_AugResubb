@@ -57,6 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #weekly-events {
     background-color: hsl(31, 82%, 47%);
+    color: #000;
 }
 
 #sign-up {
