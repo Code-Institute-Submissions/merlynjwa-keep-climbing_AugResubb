@@ -43,6 +43,13 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
 }
 
+#first-seperating-image {
+    background-image: url(../images/man-climbing-wall.jpg);
+    height: 33vw;
+    background-position: center 25%;
+    background-size: cover;
+}
+
 @media screen and (min-width: 768px) {
     #about-us {
         display: grid;
@@ -75,5 +82,9 @@ h1, h2, h3, h4, h5, h6 {
         grid-column-end: 3;
         grid-row-start: 2;
         grid-row-end: 4;
+    }
+
+    #first-seperating-image {
+        height: 320px;
     }
 }
