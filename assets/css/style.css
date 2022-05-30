@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
         grid-row-end: 4;
     }
 
-    #centre-location {
+    #centre-contact-details {
         grid-column-start: 2;
         grid-column-end: 3;
         grid-row-start: 2;
