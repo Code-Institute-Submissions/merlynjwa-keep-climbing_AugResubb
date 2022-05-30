@@ -45,10 +45,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #first-seperating-image {
-    background-image: url(../images/man-climbing-wall.jpg);
     height: 33vw;
-    background-position: center 25%;
-    background-size: cover;
+    object-fit: cover;
+    object-position: center 25%;
+    width: 100%;
 }
 
 #why-you-should-climb {
