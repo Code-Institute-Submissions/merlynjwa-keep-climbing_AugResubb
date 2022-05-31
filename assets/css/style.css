@@ -6,6 +6,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Koulen&family=Ubuntu:wght@300&display=swap');
 
+/* body template */
 body {
     margin: 0;
     color: #FFF;
@@ -13,22 +14,27 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+/* add some space between the elements and the page sides */
 header, section, article, footer {
     padding: 0 1%;
 }
 
+/* add some space between the paragraphs and section ends */
 p {
     padding-bottom: 1%;
 }
 
+/* Google font, Koulen for headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Koulen', cursive;
 }
 
+/* Use colours from palette */
 #top-bar {
     background-color: hsl(212, 43%, 37%);
 }
 
+/* top bar styling */
 #top-bar > h1 {
     margin: auto;
 }
@@ -67,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/* about us styling */
 #about-us {
     background-color: hsl(330, 32%, 41%);
     display: flex;
@@ -90,6 +97,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
 }
 
+/* dividing image styling */
 #first-seperating-image {
     height: 33vw;
     object-fit: cover;
@@ -97,15 +105,18 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
+/* why you should climb */
 #why-you-should-climb {
     background-color: hsl(10, 66%, 39%);
 }
 
+/* weekly events */
 #weekly-events {
     background-color: hsl(31, 82%, 47%);
     color: #000;
 }
 
+/* sign up styling */
 #sign-up {
     background-color: hsl(33, 57%, 49%);
     color: #000;
@@ -124,6 +135,7 @@ h1, h2, h3, h4, h5, h6 {
     display: grid;
 }
 
+/* footer styling */
 footer {
     background-color: hsl(35, 38%, 52%);
     color: #000;
@@ -151,16 +163,20 @@ footer > p {
     grid-column-end: 4;
 }
 
+/* larger devices, like laptops, desktops and tablets in landscape */
 @media screen and (min-width: 768px) {
+    /* remove the hamburger navigation */
     #mouseover {
         display: none;
     }
 
+    /* navigation links */
     #top-bar nav {
         display: flex;
         justify-content: space-evenly;
     }
 
+    /* layout of the about us section */
     #about-us {
         grid-template-columns: 1fr 1fr;
         display: grid;
@@ -195,10 +211,12 @@ footer > p {
         grid-row-end: 4;
     }
 
+    /* dividing image */
     #first-seperating-image {
         height: 320px;
     }
 
+    /* footer layout */
     footer {
         grid-template-columns: 1fr 2fr 1fr;
     }
