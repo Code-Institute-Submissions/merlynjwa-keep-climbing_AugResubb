@@ -200,7 +200,7 @@ footer > p {
     }
 
     footer {
-        grid-template-columns: 1hr 2hr 1hr;
+        grid-template-columns: 1fr 2fr 1fr;
     }
 
     footer #social-media {
