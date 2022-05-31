@@ -82,3 +82,7 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
   _Fonts used:_
   - Koulen, [license](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
   - Ubuntu, [license](https://ubuntu.com/legal/font-licence)
+
+- __W3Schools__
+
+  I made use of the first example dropdown menu written in CSS from [here](https://www.w3schools.com/css/css_dropdowns.asp)

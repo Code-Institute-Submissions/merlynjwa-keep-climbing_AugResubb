@@ -38,6 +38,35 @@ h1, h2, h3, h4, h5, h6 {
     color: #FFF;
 }
 
+/*
+ * drop down menu code taken from:
+ * https://www.w3schools.com/css/css_dropdowns.asp
+ */
+@media screen and (max-width: 767px) {
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    #mouseover {
+        display: inline;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: hsl(212, 43%, 37%);
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        z-index: 1;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: grid;
+    }
+}
+
 #about-us {
     background-color: hsl(330, 32%, 41%);
     display: flex;
@@ -118,6 +147,10 @@ footer > p {
 }
 
 @media screen and (min-width: 768px) {
+    #mouseover {
+        display: none;
+    }
+
     #top-bar nav {
         display: flex;
         justify-content: space-evenly;
