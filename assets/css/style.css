@@ -124,12 +124,12 @@ footer {
     color: #000;
     display: grid;
     grid-template-rows: auto auto;
-    grid-template-columns: 1hr 2hr 1hr;
+    grid-template-columns: auto;
 }
 
 footer #social-media {
-    grid-column-start: 2;
-    grid-column-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 4;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -137,7 +137,7 @@ footer #social-media {
 
 footer a {
     text-decoration: none;
-    font-size: x-large;
+    font-size: xx-large;
     color: #000;
 }
 
@@ -192,5 +192,19 @@ footer > p {
 
     #first-seperating-image {
         height: 320px;
+    }
+
+    footer {
+        grid-template-columns: 1hr 2hr 1hr;
+    }
+
+    footer #social-media {
+        grid-column-start: 2;
+        grid-column-end: 3;
+    }
+
+    footer a {
+        font-size: x-large;
+        margin: 0;
     }
 }
