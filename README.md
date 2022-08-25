@@ -18,22 +18,24 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 - [Credits](#credits)
 ---
 
-## Strategy
+## Planning
 
-### Target Audience
+### Strategy
+
+#### Target Audience
 
 * People who are interested in personal fitness
 * Experienced wall and rock climbers
 * Parents and children looking for an activity or planning an event
 
-### Site Aims
+#### Site Aims
 
 * Give the user a clear understanding of the site's purpose
 * Give the impression of a professional site
 * Convince the user that wall climbing is an enjoyable activity
 * Show the user that Keep Climbing is a great place to go wall climbing
 
-## Scope
+### Scope
 
 * A description of the centre
 * What climbing apparatus is available
@@ -42,9 +44,9 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 * Sign up
 * Social media links
 
-## Structure
+### Structure
 
-### Welcome Page
+#### Welcome Page
 
 * Title, navigation
 * Desciption of the centre
@@ -53,15 +55,15 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
   * Weekly events
 * Location on map, social media, opening times & contact
 
-### Sign Up Page
+#### Sign Up Page
 
 * Form for sign up to the centre
 
-### News & Blog Posts
+#### News & Blog Posts
 
 * Articles on recent developments at the centre
 
-### Café & Restaurant Page
+#### Café & Restaurant Page
 
 * Overview of the food & drinks available at the centre
 
