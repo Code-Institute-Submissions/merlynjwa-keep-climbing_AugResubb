@@ -157,8 +157,6 @@ and the footer when the width is 412px:
 
 ## Credits
 
-### Content
-
 - __OpenStreetMap__
 
   The iframe of the map is provided by OpenStreetMap,
