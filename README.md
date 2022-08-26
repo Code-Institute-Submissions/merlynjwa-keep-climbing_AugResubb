@@ -175,6 +175,8 @@ The site produced the following results when I ran it on the desktop mode:
 
 ![Lighthouse desktop test](./docs/lighthouse-dektop.webp)
 
+The site produced the following results when I ran it on mobile mode:
+
 ![Lighthouse mobile test](./docs/lighthouse-mobile.webp)
 
 ## Credits
