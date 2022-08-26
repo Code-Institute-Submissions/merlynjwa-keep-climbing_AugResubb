@@ -169,6 +169,8 @@ and the footer when the width is 412px:
 
 ![Lighthouse desktop test](./docs/lighthouse-dektop.webp)
 
+![Lighthouse mobile test](./docs/lighthouse-mobile.webp)
+
 ## Credits
 
 - __OpenStreetMap__
