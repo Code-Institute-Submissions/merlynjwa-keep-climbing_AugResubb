@@ -171,6 +171,8 @@ The site's CSS passes through the Jigsaw validator without issues.
 
 ### Lighthouse
 
+The site produced the following results when I ran it on the desktop mode:
+
 ![Lighthouse desktop test](./docs/lighthouse-dektop.webp)
 
 ![Lighthouse mobile test](./docs/lighthouse-mobile.webp)
