@@ -157,6 +157,8 @@ and the footer when the width is 412px:
 
 ## Testing
 
+### W3C HTML Validator
+
 ## Credits
 
 - __OpenStreetMap__
