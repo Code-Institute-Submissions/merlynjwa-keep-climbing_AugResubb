@@ -161,6 +161,8 @@ and the footer when the width is 412px:
 
 ![W3C HTML Validation results](./docs/w3c-html-validator.webp)
 
+The site's HTML passes through the W3C validator without issues.
+
 ### Jigsaw CSS Validator
 
 ![W3C Jigsaw CSS Validation results](./docs/w3c-css-validator.webp)
