@@ -167,6 +167,8 @@ The site's HTML passes through the W3C validator without issues.
 
 ![W3C Jigsaw CSS Validation results](./docs/w3c-css-validator.webp)
 
+The site's CSS passes through the Jigsaw validator without issues.
+
 ### Lighthouse
 
 ![Lighthouse desktop test](./docs/lighthouse-dektop.webp)
