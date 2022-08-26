@@ -143,7 +143,15 @@ and for 412px:
 
 ### Footer
 
+The pages footer largely keeps its arrangement the same with a varying viewport width. However, the icons for the social media links change size.
+
+When the width is less than 768px the icons become larger to allow them to be more visible and easier to select on small touch screen devices, like smart phones.
+
+Here is the footer when the width is 768px:
+
 ![Footer when the viewport's width is 768px](./docs/footer-768px.webp)
+
+and the footer when the width is 412px:
 
 ![Footer when the viewport's width is 412px](./docs/footer-412px.webp)
 
