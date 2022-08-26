@@ -129,7 +129,15 @@ and when the width is 412px:
 
 ### Sign Up Form
 
+The 'Sign Up' form does not change its arrangement with a change in the viewport's width.
+
+Similar to the 'Weekly Events' section, the content is guaranteed to fit within the section irrespective of the viewport's width.
+
+Here is the section when the viewport's width is 768px:
+
 ![Sign up form section when the viewport's width is 768px](./docs/sign-up-768px.webp)
+
+and for 412px:
 
 ![Sign up form section when the viewport's width is 412px](./docs/sign-up-412px.webp)
 
