@@ -163,6 +163,8 @@ and the footer when the width is 412px:
 
 ### Jigsaw CSS Validator
 
+![W3C Jigsaw CSS Validation results](./docs/w3c-css-validator.webp)
+
 ## Credits
 
 - __OpenStreetMap__
