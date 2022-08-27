@@ -111,7 +111,15 @@ and here is the image when rendered on a viewport width of 412px:
 
 This section aims to convince a viewer of the potential benefits to joining a climbing centre.
 
+The arrangment of the section does not change with the width of the viewport.
+
+The text wraps around the element, causing the text to fit within the viewport for practically all widths of screensize.
+
+Here is the section on a viewport width of 768px:
+
 ![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
+
+here is the section with a width of 412px:
 
 ![Why You Should Climb section when viewport width is 412px](./docs/why-you-should-climb-412px.webp)
 
