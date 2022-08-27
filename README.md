@@ -143,8 +143,6 @@ and when the width is 412px:
 
 ### Sign Up Form
 
-* Form for sign up to the centre
-
 The 'Sign Up' form does not change its arrangement with a change in the viewport's width.
 
 Similar to the 'Weekly Events' section, the content is guaranteed to fit within the section irrespective of the viewport's width.
