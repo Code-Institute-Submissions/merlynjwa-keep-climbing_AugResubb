@@ -89,6 +89,10 @@ When the viewport has a width narrower than 768px, the about us section is rende
 
 ### Centre Image
 
+The centre image serves to provide a break for the view from the text, as well as provide a bit more visual interest to the site.
+
+It also gives the viewer a small insite to the potental appearance of the centre *(if this was a real-life centre)*.
+
 ![Full centre image which is cropped down for each viewport](./assets/images/man-wall-climbing-on-red-wall-photo.webp)
 
 This is the full size of the image which I've used to divide the centre of the page, seperating the top content of the 'about us' and 'header' sections.
