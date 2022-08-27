@@ -57,7 +57,7 @@ This serves to inform potential customers of the climbing centre's location and 
 
 ### Header
 
-* Title, navigation
+The header serves to confirm to the view of the site that they have ended up at the correct site, and it allows them to navigate the site by jumping to whichever section they wish to.
 
 ![Title Bar & Navigation when the viewport's width is greater than or equal to 768px](./docs/title-bar-768px-and-greater.webp)
 
