@@ -201,6 +201,8 @@ The site produced the following results when I ran it on mobile mode:
 
 ## Bugs
 
+### Solved Bugs
+
 ### Unsolved Bugs
 
 No unsolved bugs.
