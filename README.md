@@ -199,6 +199,8 @@ The site produced the following results when I ran it on mobile mode:
 
 ![Lighthouse mobile test](./docs/lighthouse-mobile.webp)
 
+## Bugs
+
 ## Deployment
 
 The repository has been deployed to Github Pages.
