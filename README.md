@@ -203,6 +203,12 @@ The site produced the following results when I ran it on mobile mode:
 
 ### Solved Bugs
 
+I had some difficulty with keeping the centre image focused on the man climbing the wall,
+keeping the left and right sides of the image fixed to the sides of the element.
+
+I managed to resolve this issue by realising that I hadn't set the `object-fit` to `cover`
+and the `object-position` to `center`.
+
 ### Unsolved Bugs
 
 No unsolved bugs.
