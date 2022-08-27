@@ -78,6 +78,22 @@ When the viewport is wider than 767px, the 'about us' section is broken into two
 
 When the viewport has a width narrower than 768px, the about us section is rendered in a line, vertically.
 
+### Centre Image
+
+![Full centre image which is cropped down for each viewport](./assets/images/man-wall-climbing-on-red-wall-photo.webp)
+
+This is the full size of the image which I've used to divide the centre of the page, seperating the top content of the 'about us' and 'header' sections.
+
+The CSS I've used causes the top and bottom of the image to contract as the viewport gets narrower, but the left and right sides of the image stay fixed to the left and right sides of the element which it is contained within.
+
+Here's the image when rendered on a viewport width of 768px:
+
+![Centre image when displayed on a viewport with a width of 768px](./docs/centre-image-768px.webp)
+
+and here is the image when rendered on a viewport width of 412px:
+
+![Centre image when displayed on a viewport with a width of 412px](./docs/centre-image-412px.webp)
+
 #### Why You Should Climb
 
 * Why you should climb
@@ -95,22 +111,6 @@ When the viewport has a width narrower than 768px, the about us section is rende
 * Copyright and social media links
 
 ## Features
-
-### Centre Image
-
-![Full centre image which is cropped down for each viewport](./assets/images/man-wall-climbing-on-red-wall-photo.webp)
-
-This is the full size of the image which I've used to divide the centre of the page, seperating the top content of the 'about us' and 'header' sections.
-
-The CSS I've used causes the top and bottom of the image to contract as the viewport gets narrower, but the left and right sides of the image stay fixed to the left and right sides of the element which it is contained within.
-
-Here's the image when rendered on a viewport width of 768px:
-
-![Centre image when displayed on a viewport with a width of 768px](./docs/centre-image-768px.webp)
-
-and here is the image when rendered on a viewport width of 412px:
-
-![Centre image when displayed on a viewport with a width of 412px](./docs/centre-image-412px.webp)
 
 ### 'Why You Should Climb' Section
 
