@@ -73,6 +73,12 @@ When the hamburger icon is selected, a menu containing the navigation links appe
 
 ### About Us
 
+The `about us` section provides some information to the site viewer on what climbing equiptment is available to them through **Keep Climbing**.
+
+For a real-life buisness, this section would contain information about the origins and history of the buisness.
+
+The section also provides the viewer with contact information, the opening times of the centre through a week, and where the centre can be found.
+
 ![About us section when the viewport's width is 768px or greater](./docs/about-us-section-768px.webp)
 
 When the viewport is wider than 767px, the 'about us' section is broken into two vertical blocks, with the contact information for the site in the right column.
