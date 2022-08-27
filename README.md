@@ -86,8 +86,6 @@ When the hamburger icon is selected, a menu containing the navigation links appe
 
 * Copyright and social media links
 
-### Surface
-
 ## Features
 
 ### 'About Us' Section
