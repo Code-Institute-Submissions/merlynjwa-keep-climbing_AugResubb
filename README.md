@@ -125,6 +125,10 @@ here is the section with a width of 412px:
 
 ### Weekly Events
 
+The `Weekly Events` section gives the viewer information on what events to expect at the centre though the week.
+
+The hope with this section is that it would encorage the viewer to join in with some of the events.
+
 The arrangement of the 'Weekly Events' section does not change with the viewport width.
 
 The text wraps with in it's container, which means that it always fits with in the viewport's width.
