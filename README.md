@@ -28,6 +28,9 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 
 ## Strategy
 
+The purpose of the site is to act as a landing page for the *fictional* buisness of **Keep Climbing**.
+This serves to inform potential customers of the climbing centre's location and goings on through the week, as well as giving them an over view of some of the reasons they may choose to climb with **Keep Climbing** and allows them to sign up.
+
 ### Target Audience
 
 * People who are interested in personal fitness
