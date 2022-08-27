@@ -70,6 +70,14 @@ When the hamburger icon is selected, a menu containing the navigation links appe
   * Climbing equipment available
   * Location on map, opening times & contact
 
+![About us section when the viewport's width is 768px or greater](./docs/about-us-section-768px.webp)
+
+When the viewport is wider than 767px, the 'about us' section is broken into two vertical blocks, with the contact information for the site in the right column.
+
+![About us section when the viewport's width is 767px or less](./docs/about-us-section-767px.webp)
+
+When the viewport has a width narrower than 768px, the about us section is rendered in a line, vertically.
+
 #### Why You Should Climb
 
 * Why you should climb
@@ -87,16 +95,6 @@ When the hamburger icon is selected, a menu containing the navigation links appe
 * Copyright and social media links
 
 ## Features
-
-### 'About Us' Section
-
-![About us section when the viewport's width is 768px or greater](./docs/about-us-section-768px.webp)
-
-When the viewport is wider than 767px, the 'about us' section is broken into two vertical blocks, with the contact information for the site in the right column.
-
-![About us section when the viewport's width is 767px or less](./docs/about-us-section-767px.webp)
-
-When the viewport has a width narrower than 768px, the about us section is rendered in a line, vertically.
 
 ### Centre Image
 
