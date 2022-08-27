@@ -178,6 +178,16 @@ The site produced the following results when I ran it on mobile mode:
 
 ## Deployment
 
+The repository has been deployed to Github Pages.
+
+This was done through the following process:
+
+  1. Go to the **settings** of the repository
+  1. Select **pages** from the menu on the left-hand side
+  1. Select the *Main* branch as the **Source** and save
+
+The deployed site is found at this [link](https://merlynjwa.github.io/keep-climbing/)
+
 ## Credits
 
 - __OpenStreetMap__
