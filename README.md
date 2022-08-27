@@ -148,8 +148,6 @@ and the footer when the width is 412px:
 
 ![Footer when the viewport's width is 412px](./docs/footer-412px.webp)
 
-## Features
-
 ## Testing
 
 ### W3C HTML Validator
