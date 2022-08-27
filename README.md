@@ -125,8 +125,6 @@ here is the section with a width of 412px:
 
 ### Weekly Events
 
-* Weekly events
-
 The arrangement of the 'Weekly Events' section does not change with the viewport width.
 
 The text wraps with in it's container, which means that it always fits with in the viewport's width.
