@@ -109,6 +109,8 @@ and here is the image when rendered on a viewport width of 412px:
 
 ![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
 
+![Why You Should Climb section when viewport width is 412px](./docs/why-you-should-climb-412px.webp)
+
 ### Weekly Events
 
 The arrangement of the 'Weekly Events' section does not change with the viewport width.
