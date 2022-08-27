@@ -29,7 +29,7 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 ## Strategy
 
 The purpose of the site is to act as a landing page for the *fictional* business of **Keep Climbing**.
-This serves to inform potential customers of the climbing centre's location and goings on through the week, as well as giving them an over view of some of the reasons they may choose to climb with **Keep Climbing** and allows them to sign up.
+This serves to inform potential customers of the climbing centre's location and goings on through the week, as well as giving them an overview of some of the reasons they may choose to climb with **Keep Climbing** and allows them to sign up.
 
 ### Target Audience
 
@@ -65,7 +65,7 @@ When the viewport is wider than 767px, all the navigation links are rendered nex
 
 ![Title Bar & Navigation when the viewport's width is less than 768px](./docs/title-bar-less-than-768px.webp)
 
-For viewports narrower than 768px, the navigation links disappear and a hamburger icon is rendered on the left hand side.
+For viewports narrower than 768px, the navigation links disappear and a hamburger icon is rendered on the left-hand side.
 
 ![Title Bar & Navigation when the viewport's width is less than 768px, with the hamburger menu open](./docs/title-bar-less-than-768px-with-burger-menu-open.webp)
 
@@ -73,11 +73,11 @@ When the hamburger icon is selected, a menu containing the navigation links appe
 
 ### About Us
 
-The `about us` section provides some information to the site viewer on what climbing equiptment is available to them through **Keep Climbing**.
+The `about us` section provides some information to the site viewer on what climbing equipment is available to them through **Keep Climbing**.
 
-For a real-life buisness, this section would contain information about the origins and history of the buisness.
+For a real-life business, this section would contain information about the origins and history of the business.
 
-The section also provides the viewer with contact information, the opening times of the centre through a week, and where the centre can be found.
+The section also provides the viewer with contact information, the opening times of the centre throughout the week, and where the centre can be found.
 
 ![About us section when the viewport's width is 768px or greater](./docs/about-us-section-768px.webp)
 
@@ -91,13 +91,13 @@ When the viewport has a width narrower than 768px, the about us section is rende
 
 The centre image serves to provide a break for the view from the text, as well as provide a bit more visual interest to the site.
 
-It also gives the viewer a small insite to the potental appearance of the centre *(if this was a real-life centre)*.
+It also gives the viewer a small insight into the potential appearance of the centre *(if this was a real-life centre)*.
 
 ![Full centre image which is cropped down for each viewport](./assets/images/man-wall-climbing-on-red-wall-photo.webp)
 
-This is the full size of the image which I've used to divide the centre of the page, seperating the top content of the 'about us' and 'header' sections.
+This is the full size of the image which I've used to divide the centre of the page, separating the top content of the 'about us' and 'header' sections.
 
-The CSS I've used causes the top and bottom of the image to contract as the viewport gets narrower, but the left and right sides of the image stay fixed to the left and right sides of the element which it is contained within.
+The CSS I've used causes the top and bottom of the image to contract as the viewport gets narrower, but the left and right sides of the image stay fixed to the left and right sides of the element within which it is contained within.
 
 Here's the image when rendered on a viewport width of 768px:
 
@@ -109,11 +109,11 @@ and here is the image when rendered on a viewport width of 412px:
 
 ### Why You Should Climb
 
-This section aims to convince a viewer of the potential benefits to joining a climbing centre.
+This section aims to convince a viewer of the potential benefits of joining a climbing centre.
 
-The arrangment of the section does not change with the width of the viewport.
+The arrangement of the section does not change with the width of the viewport.
 
-The text wraps around the element, causing the text to fit within the viewport for practically all widths of screensize.
+The text wraps around the element, causing the text to fit within the viewport for practically all widths of screen size.
 
 Here is the section on a viewport width of 768px:
 
@@ -125,13 +125,13 @@ here is the section with a width of 412px:
 
 ### Weekly Events
 
-The `Weekly Events` section gives the viewer information on what events to expect at the centre though the week.
+The `Weekly Events` section gives the viewer information on what events to expect at the centre throughout the week.
 
-The hope with this section is that it would encorage the viewer to join in with some of the events.
+The hope with this section is that it would encourage the viewer to join in with some of the events.
 
 The arrangement of the 'Weekly Events' section does not change with the viewport width.
 
-The text wraps with in it's container, which means that it always fits with in the viewport's width.
+The text wraps within its container, which means that it always fits within the viewport's width.
 
 Here is the section when the viewport's width is 768px:
 
@@ -143,7 +143,7 @@ and when the width is 412px:
 
 ### Sign Up Form
 
-The sign up form allows an interested viewer to provide their details and climbing background to the company, with the idea being that they would then be contacted regarding confirming their membership and being invited to the centre for a lesson.
+The sign-up form allows an interested viewer to provide their details and climbing background to the company, with the idea being that they would then be contacted regarding confirming their membership and being invited to the centre for a lesson.
 
 The 'Sign Up' form does not change its arrangement with a change in the viewport's width.
 
@@ -159,13 +159,13 @@ and for 412px:
 
 ### Footer
 
-The footer provides the user with social media links to find **Keep Climbing** through a number of different platforms.
+The footer provides the user with social media links to find **Keep Climbing** through several different platforms.
 
 It also provides a copyright mark to inform the viewer of the author and to assist in protecting the copyright of the author.
 
-The pages footer largely keeps its arrangement the same with a varying viewport width. However, the icons for the social media links change size.
+The page's footer largely keeps its arrangement the same with a varying viewport width. However, the icons for the social media links change in size.
 
-When the width is less than 768px the icons become larger to allow them to be more visible and easier to select on small touch screen devices, like smart phones.
+When the width is less than 768px the icons become larger to allow them to be more visible and easier to select on small touch screen devices, like smartphones.
 
 Here is the footer when the width is 768px:
 
@@ -191,7 +191,7 @@ The site's CSS passes through the Jigsaw validator without issues.
 
 ### Lighthouse
 
-The site produced the following results when I ran it on the desktop mode:
+The site produced the following results when I ran it on desktop mode:
 
 ![Lighthouse desktop test](./docs/lighthouse-dektop.webp)
 
@@ -230,7 +230,7 @@ The deployed site is found at this [link](https://merlynjwa.github.io/keep-climb
 - __OpenStreetMap__
 
   The iframe of the map is provided by OpenStreetMap,
-  and is under copyright of OpenStreetMap contributors.
+  and is under the copyright of OpenStreetMap contributors.
   It is provided by the license found [here](https://www.openstreetmap.org/copyright).
 
 - __Font Awesome__
