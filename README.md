@@ -98,6 +98,10 @@ and here is the image when rendered on a viewport width of 412px:
 
 * Why you should climb
 
+![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
+
+![Why You Should Climb section when viewport width is 412px](./docs/why-you-should-climb-412px.webp)
+
 #### Weekly Events
 
 * Weekly events
@@ -111,12 +115,6 @@ and here is the image when rendered on a viewport width of 412px:
 * Copyright and social media links
 
 ## Features
-
-### 'Why You Should Climb' Section
-
-![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
-
-![Why You Should Climb section when viewport width is 412px](./docs/why-you-should-climb-412px.webp)
 
 ### Weekly Events
 
