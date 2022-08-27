@@ -159,8 +159,6 @@ and for 412px:
 
 ### Footer
 
-* Copyright and social media links
-
 The pages footer largely keeps its arrangement the same with a varying viewport width. However, the icons for the social media links change size.
 
 When the width is less than 768px the icons become larger to allow them to be more visible and easier to select on small touch screen devices, like smart phones.
