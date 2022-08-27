@@ -25,24 +25,22 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 - [Credits](#credits)
 ---
 
-## Planning
+## Strategy
 
-### Strategy
-
-#### Target Audience
+### Target Audience
 
 * People who are interested in personal fitness
 * Experienced wall and rock climbers
 * Parents and children looking for an activity or planning an event
 
-#### Site Aims
+### Site Aims
 
 * Give the user a clear understanding of the site's purpose
 * Give the impression of a professional site
 * Convince the user that wall climbing is an enjoyable activity
 * Show the user that Keep Climbing is a great place to go wall climbing
 
-### Scope
+## Scope
 
 * A description of the centre
 * What climbing apparatus is available
@@ -51,9 +49,9 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
 * Sign up
 * Social media links
 
-### Structure
+## Structure
 
-#### Header
+### Header
 
 * Title, navigation
 
@@ -69,7 +67,7 @@ For viewports narrower than 768px, the navigation links disappear and a hamburge
 
 When the hamburger icon is selected, a menu containing the navigation links appears beneath the icon and on top of the page.
 
-#### About Us
+### About Us
 
 * Desciption of the centre
   * Climbing equipment available
@@ -99,13 +97,13 @@ and here is the image when rendered on a viewport width of 412px:
 
 ![Centre image when displayed on a viewport with a width of 412px](./docs/centre-image-412px.webp)
 
-#### Why You Should Climb
+### Why You Should Climb
 
 ![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
 
 ![Why You Should Climb section when viewport width is 412px](./docs/why-you-should-climb-412px.webp)
 
-#### Weekly Events
+### Weekly Events
 
 * Weekly events
 
@@ -121,7 +119,7 @@ and when the width is 412px:
 
 ![Weekly events section when the viewport has a width of 412px](./docs/weekly-events-412px.webp)
 
-#### Sign Up Form
+### Sign Up Form
 
 * Form for sign up to the centre
 
@@ -137,7 +135,7 @@ and for 412px:
 
 ![Sign up form section when the viewport's width is 412px](./docs/sign-up-412px.webp)
 
-#### Footer
+### Footer
 
 * Copyright and social media links
 
