@@ -143,6 +143,8 @@ and when the width is 412px:
 
 ### Sign Up Form
 
+The sign up form allows an interested viewer to provide their details and climbing background to the company, with the idea being that they would then be contacted regarding confirming their membership and being invited to the centre for a lesson.
+
 The 'Sign Up' form does not change its arrangement with a change in the viewport's width.
 
 Similar to the 'Weekly Events' section, the content is guaranteed to fit within the section irrespective of the viewport's width.
