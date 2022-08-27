@@ -73,10 +73,6 @@ When the hamburger icon is selected, a menu containing the navigation links appe
 
 ### About Us
 
-* Desciption of the centre
-  * Climbing equipment available
-  * Location on map, opening times & contact
-
 ![About us section when the viewport's width is 768px or greater](./docs/about-us-section-768px.webp)
 
 When the viewport is wider than 767px, the 'about us' section is broken into two vertical blocks, with the contact information for the site in the right column.
