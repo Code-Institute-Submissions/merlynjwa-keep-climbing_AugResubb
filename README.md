@@ -175,6 +175,8 @@ The site produced the following results when I ran it on mobile mode:
 
 ![Lighthouse mobile test](./docs/lighthouse-mobile.webp)
 
+## Deployment
+
 ## Credits
 
 - __OpenStreetMap__
