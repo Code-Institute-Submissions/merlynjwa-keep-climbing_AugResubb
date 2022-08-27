@@ -105,6 +105,8 @@ and here is the image when rendered on a viewport width of 412px:
 
 ![Centre image when displayed on a viewport with a width of 412px](./docs/centre-image-412px.webp)
 
+### `Why You Should Climb` Section
+
 ### Weekly Events
 
 The arrangement of the 'Weekly Events' section does not change with the viewport width.
