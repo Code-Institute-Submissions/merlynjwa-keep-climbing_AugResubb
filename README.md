@@ -105,7 +105,7 @@ and here is the image when rendered on a viewport width of 412px:
 
 ![Centre image when displayed on a viewport with a width of 412px](./docs/centre-image-412px.webp)
 
-### `Why You Should Climb` Section
+### 'Why You Should Climb' Section
 
 ![Why You Should Climb section when viewport width is 768px](./docs/why-you-should-climb-768px.webp)
 
