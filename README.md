@@ -201,6 +201,8 @@ The site produced the following results when I ran it on mobile mode:
 
 ## Bugs
 
+### Unsolved Bugs
+
 ## Deployment
 
 The repository has been deployed to Github Pages.
