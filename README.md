@@ -104,6 +104,18 @@ and here is the image when rendered on a viewport width of 412px:
 
 * Weekly events
 
+The arrangement of the 'Weekly Events' section does not change with the viewport width.
+
+The text wraps with in it's container, which means that it always fits with in the viewport's width.
+
+Here is the section when the viewport's width is 768px:
+
+![Weekly events section when the viewport has a width of 768px](./docs/weekly-events-768px.webp)
+
+and when the width is 412px:
+
+![Weekly events section when the viewport has a width of 412px](./docs/weekly-events-412px.webp)
+
 #### Sign Up Form
 
 * Form for sign up to the centre
@@ -137,20 +149,6 @@ and the footer when the width is 412px:
 ![Footer when the viewport's width is 412px](./docs/footer-412px.webp)
 
 ## Features
-
-### Weekly Events
-
-The arrangement of the 'Weekly Events' section does not change with the viewport width.
-
-The text wraps with in it's container, which means that it always fits with in the viewport's width.
-
-Here is the section when the viewport's width is 768px:
-
-![Weekly events section when the viewport has a width of 768px](./docs/weekly-events-768px.webp)
-
-and when the width is 412px:
-
-![Weekly events section when the viewport has a width of 412px](./docs/weekly-events-412px.webp)
 
 ## Testing
 
