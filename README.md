@@ -55,7 +55,7 @@ Keep Climbing is a wall climbing centre, based in Wokingham, Berkshire.
   * Weekly events
 * Location on map, social media, opening times & contact
 
-#### Sign Up Page
+#### Sign Up Form
 
 * Form for sign up to the centre
 
